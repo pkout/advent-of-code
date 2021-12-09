@@ -1,0 +1,2 @@
+Lambda: https://github.com/narimiran/advent_of_code_2015/blob/master/python/day05.py
+Regex: https://github.com/jdswalker/Advent-of-Code-2015/blob/master/advent_of_code/solvers/day_05.py
