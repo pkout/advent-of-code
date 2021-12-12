@@ -1,1 +1,1 @@
-# coding-exercises
+# advent-of-code
